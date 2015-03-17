@@ -30,3 +30,8 @@ i
 esc
 
 :wq
+
+
+mongo db for ubuntu:
+http://tecadmin.net/install-mongodb-on-ubuntu/
+sudo mongod --dbpath srv --port 12345
